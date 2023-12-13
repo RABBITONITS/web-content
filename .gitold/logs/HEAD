@@ -1,0 +1,44 @@
+0000000000000000000000000000000000000000 393b9cea95db19e9f3a26b2fdeb43dadf0c608fd yuni <shizume.dev@gmail.com> 1698148847 +0900	commit (initial): v1
+393b9cea95db19e9f3a26b2fdeb43dadf0c608fd 285676779064acf368417504c33273fbba8e5c52 yuni <shizume.dev@gmail.com> 1698149517 +0900	commit: index change
+285676779064acf368417504c33273fbba8e5c52 d32502eb43e699758b1291033c7a3ef8e0c6f074 yuni <shizume.dev@gmail.com> 1698403688 +0900	commit: 미디어 업로드
+d32502eb43e699758b1291033c7a3ef8e0c6f074 14dacd853fc6a5c3cee3c901e9932a4a4165ea1f yuni <shizume.dev@gmail.com> 1698407474 +0900	commit: 데미지 타입
+14dacd853fc6a5c3cee3c901e9932a4a4165ea1f b5b0eac851b40ce7932753282b3b86d7932c2773 yuni <shizume.dev@gmail.com> 1698414113 +0900	commit: 백그라운드
+b5b0eac851b40ce7932753282b3b86d7932c2773 1d4146aa0a03df520df2d6ff985d939cc0cefc76 yuni <shizume.dev@gmail.com> 1698481197 +0900	commit: 미디어 업로드
+1d4146aa0a03df520df2d6ff985d939cc0cefc76 93117a8cd6130a117a09619e18f0b31f72bd177e yuni <shizume.dev@gmail.com> 1698570707 +0900	commit: 미디어 추가
+93117a8cd6130a117a09619e18f0b31f72bd177e 0f47dcb8e33e3c1b0d215a1e1e18835cb9b5ebf8 yuni <shizume.dev@gmail.com> 1698571268 +0900	pull --tags main main: Fast-forward
+0f47dcb8e33e3c1b0d215a1e1e18835cb9b5ebf8 f26d9257d234abf55c9c8073cc8bea4c9e383921 yuni <shizume.dev@gmail.com> 1698571538 +0900	commit: 미디어추가
+f26d9257d234abf55c9c8073cc8bea4c9e383921 22beac58e72dcb9f350b84bdb85cd5b2efeeab19 yuni <shizume.dev@gmail.com> 1698848964 +0900	commit: ui update
+22beac58e72dcb9f350b84bdb85cd5b2efeeab19 c6c7944446613679a0e7a1451144fbd7cf2c96ff yuni <shizume.dev@gmail.com> 1698852113 +0900	commit: ui update
+c6c7944446613679a0e7a1451144fbd7cf2c96ff bf97d253d65ac6a673807ce4ba4ef833a5fc2083 yuni <shizume.dev@gmail.com> 1698852961 +0900	commit: ui update
+bf97d253d65ac6a673807ce4ba4ef833a5fc2083 fd31627807eadefb79ad7ec360ade0bdfad74718 yuni <shizume.dev@gmail.com> 1698853094 +0900	commit: ui update
+fd31627807eadefb79ad7ec360ade0bdfad74718 dab6e7e96afa02e3b0032c5476b41a73e7f2c450 yuni <shizume.dev@gmail.com> 1698853382 +0900	commit: storm
+dab6e7e96afa02e3b0032c5476b41a73e7f2c450 68bfa1ec674089fd4d1b3d12cba62f44821c6898 yuni <shizume.dev@gmail.com> 1698931445 +0900	commit: ui update
+68bfa1ec674089fd4d1b3d12cba62f44821c6898 19b2cb8f799755da93a1ec4d5df97ff547f34b8d yuni <shizume.dev@gmail.com> 1698935007 +0900	commit: 소네트 스킬 이미지
+19b2cb8f799755da93a1ec4d5df97ff547f34b8d 37e830610640d1974c42f5beda56b5e931d39d83 yuni <shizume.dev@gmail.com> 1699083229 +0900	commit: ui update
+37e830610640d1974c42f5beda56b5e931d39d83 26f12dafb2189661d5b82b98816e3fa77335a658 yuni <shizume.dev@gmail.com> 1699089373 +0900	commit: ui update
+26f12dafb2189661d5b82b98816e3fa77335a658 ffd1a44e20fea3adca4cb95a82b2b3e5de57c1aa yuni <shizume.dev@gmail.com> 1699092640 +0900	commit: ui update
+ffd1a44e20fea3adca4cb95a82b2b3e5de57c1aa abfe43a7255609afce1135de51a3ac8db8fbbc3c yuni <shizume.dev@gmail.com> 1699117286 +0900	commit: 소네트 갤러리 추가
+abfe43a7255609afce1135de51a3ac8db8fbbc3c 9a09764d050e662cfaba4dc54f1e95f34daf3bfc yuni <shizume.dev@gmail.com> 1699117385 +0900	commit: id update
+9a09764d050e662cfaba4dc54f1e95f34daf3bfc b12cf5a72735b83262b834f815b13dec19fae0c3 yuni <shizume.dev@gmail.com> 1699170213 +0900	commit: 소네트 스킨 추가
+b12cf5a72735b83262b834f815b13dec19fae0c3 cdff607550c989d41ce971592754db8025a4396f yuni <shizume.dev@gmail.com> 1699170504 +0900	commit: 소네트 스탠딩 추가
+cdff607550c989d41ce971592754db8025a4396f 34dba685203d346e2475f70db3d83ad6c4c4414f yuni <shizume.dev@gmail.com> 1699180252 +0900	commit: modal close 버튼
+34dba685203d346e2475f70db3d83ad6c4c4414f 051bb20c3dd3213b1e72617ebf714c5da699e6d0 yuni <shizume.dev@gmail.com> 1699676297 +0900	commit: backgrond upload
+051bb20c3dd3213b1e72617ebf714c5da699e6d0 9cb4520e99cb13ac5c0c05307c3e8629901e17b2 yuni <shizume.dev@gmail.com> 1699679333 +0900	commit: ui update
+9cb4520e99cb13ac5c0c05307c3e8629901e17b2 67d8e176670c68e60f8f51f6df54741f0ccac0a2 yuni <shizume.dev@gmail.com> 1699698356 +0900	commit: ui update
+67d8e176670c68e60f8f51f6df54741f0ccac0a2 9ef52d009cc2a6a65445a7a6483e32a75b7aace4 yuni <shizume.dev@gmail.com> 1699704807 +0900	commit: ui update
+9ef52d009cc2a6a65445a7a6483e32a75b7aace4 5c43b6b8db1cd727179cc5c4ca6ab7e32e94ae7d yuni <shizume.dev@gmail.com> 1700483643 +0900	commit: 의지 업로드
+5c43b6b8db1cd727179cc5c4ca6ab7e32e94ae7d a9a4aaffed62308901d66184128de666a7cb1e28 yuni <shizume.dev@gmail.com> 1700485700 +0900	commit: ui update
+a9a4aaffed62308901d66184128de666a7cb1e28 535f68ca1ed951716182b913931696e69a10351b yuni <shizume.dev@gmail.com> 1700747547 +0900	commit: ui update
+535f68ca1ed951716182b913931696e69a10351b 232e9577090f8f2883d8144e7f1ec645129193c4 yuni <shizume.dev@gmail.com> 1700747905 +0900	commit: ui update
+232e9577090f8f2883d8144e7f1ec645129193c4 16af9b7dca0a983cc96b0f7ca3e65e0b72c785d1 yuni <shizume.dev@gmail.com> 1700749192 +0900	commit: ui
+16af9b7dca0a983cc96b0f7ca3e65e0b72c785d1 c439a0f628dd28885be8af002f6419db7ebb0c0f yuni <shizume.dev@gmail.com> 1700919366 +0900	commit: ui update
+c439a0f628dd28885be8af002f6419db7ebb0c0f f0dc611af5dc55746110df8bb7ce9d223835113a yuni <shizume.dev@gmail.com> 1700976299 +0900	commit: 모든 item 이미지 업로드
+f0dc611af5dc55746110df8bb7ce9d223835113a 50af572b5fabb4248f113ddfa8ffd81570fcba4e yuni <shizume.dev@gmail.com> 1700989653 +0900	commit: ui update
+50af572b5fabb4248f113ddfa8ffd81570fcba4e 4c055767ae7ef60b9e74960f1def62cd14ce71df yuni <shizume.dev@gmail.com> 1701449976 +0900	commit: ui update
+4c055767ae7ef60b9e74960f1def62cd14ce71df 130e834e7d8aacb09b90587899f8e2ea25ca1440 yuni <shizume.dev@gmail.com> 1701454007 +0900	commit: ui update
+130e834e7d8aacb09b90587899f8e2ea25ca1440 b9542075fbe40dde3c7253b562fe51b11eb37de9 yuni <shizume.dev@gmail.com> 1701455548 +0900	commit: ui update
+b9542075fbe40dde3c7253b562fe51b11eb37de9 24b8b197457ff963e13a5c8281da8466c628603c yuni <shizume.dev@gmail.com> 1701456870 +0900	commit: ui update
+24b8b197457ff963e13a5c8281da8466c628603c 106b011777189d9f1f0841c2c5320de3e72a7236 yuni <shizume.dev@gmail.com> 1701498266 +0900	commit: ui update
+106b011777189d9f1f0841c2c5320de3e72a7236 d79be1bc86365a5ca0e5b307fcd62785d8ee8f89 yuni <shizume.dev@gmail.com> 1701499573 +0900	commit: ui
+d79be1bc86365a5ca0e5b307fcd62785d8ee8f89 3d3cd2844a96edafec60efbe220dfae81e25a071 yuni <shizume.dev@gmail.com> 1701502794 +0900	commit: ui update
+3d3cd2844a96edafec60efbe220dfae81e25a071 8ee1c664d4d16664b0a03ef4869459b958a3b7f9 yuni <shizume.dev@gmail.com> 1701507430 +0900	commit: ui
